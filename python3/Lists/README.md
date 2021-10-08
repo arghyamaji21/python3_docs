@@ -1,0 +1,1 @@
+This is a list data structure used in python. This file contains implementation of list and its functions.
