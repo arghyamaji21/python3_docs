@@ -1,0 +1,1 @@
+This is string data structure used in python. This file contains implementation of string and its functions.
