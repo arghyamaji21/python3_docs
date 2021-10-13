@@ -1,5 +1,4 @@
-This repository contains detailed implementation of data structures in pyhton and operations on a csv file in pyhton \
-
+This repository contains detailed implementation of data structures in python and operations on a csv file in python \
 1: Lists \
 2: Tuples \
 3: Dictionary \
